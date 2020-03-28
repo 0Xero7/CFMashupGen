@@ -24362,7 +24362,7 @@ Z.iO.prototype={
 aO:function(){return new Z.AC(C.r)}}
 Z.AC.prototype={
 T:function(a){var t,s,r,q,p,o,n,m=this,l=null,k="OpenSans",j=u.xq,i=S.kB(l,l,H.c([new O.eN(0,C.hi,new P.n(0,5),6)],j),C.m,l,l,C.a9)
-i=T.f2(l,M.fi(l,new T.fJ(C.uQ,L.d8("CodeForces Contest Generator",l,l,l,A.cl(l,l,l,l,l,l,l,l,k,l,l,25,l,l,l,l,!0,l,l,l,l,l,l),l),l),l,l,i,60,l,l,l),l,l,0,0,0,l)
+i=T.f2(l,M.fi(l,new T.fJ(C.uQ,L.d8("CF Mashup Creator",l,l,l,A.cl(l,l,l,l,l,l,l,l,k,l,l,25,l,l,l,l,!0,l,l,l,l,l,l),l),l),l,l,i,60,l,l,l),l,l,0,0,0,l)
 t=T.f2(l,L.d8("Problem",l,l,l,A.cl(l,l,l,l,l,l,l,l,k,l,l,18,l,l,l,l,!0,l,l,l,l,l,l),l),l,l,65,l,95,l)
 s=T.f2(l,L.d8("Rating",l,l,l,A.cl(l,l,l,l,l,l,l,l,k,l,l,18,l,l,l,l,!0,l,l,l,l,l,l),l),l,l,l,115,95,l)
 r=T.f2(85,B.a2h(new Z.P9(m),m.a.c.length,new Z.Pa()),l,l,20,20,130,l)
